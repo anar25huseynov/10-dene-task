@@ -1,0 +1,89 @@
+body, html {
+    width: 100%;
+    height: 100vh;
+  }
+  ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  footer {
+    width: 100%;
+    color: #fff;
+    
+    
+  }
+  footer .div_1{
+    margin-top: 25px;
+    height: 120px;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    color: #000;
+  }
+  footer .div_1 ul {
+  display: inline-block;
+  width: 100%;
+  height: 80px;
+  }
+  footer .div_1 ul h2{
+    text-transform: capitalize;
+    letter-spacing: .4px;
+    margin-left: 50px;
+  }
+  footer .div_1 ul p{
+    text-transform: lowercase;
+    opacity: .5;
+    margin-left: 50px;
+  }
+  footer .div_1 button{
+    width: 200px;
+    height: 50px;
+    margin: 40px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 5px;
+  }
+  footer .div_2{
+    display: flex;
+    margin-left: 50px;
+    background-color: #100840;
+  }
+  footer .div_2 ul{
+    
+  }
+  footer .div_2 ul h3{
+    text-transform: capitalize;
+    text-decoration: dotted;
+    
+  }
+  footer .div_2 ul li{
+    margin-top: 10px;
+    text-transform: capitalize;
+    opacity: .5;
+    font-weight: 600;
+  }
+  
+  footer .div_3{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 50px;
+    margin-top: 25px;
+    display: inline;
+    color: #000;
+  }
+   footer .div_3 .ruslan p{
+    display: flex;
+   opacity: .6;
+   text-transform: capitalize;
+   margin-left: 90px ;
+  }
+  footer .div_3 .rauf {
+    display: flex;
+    margin-left: 900px;
+  }
+  footer .div_3 .rauf li{
+    margin-left: 10px;
+  }
